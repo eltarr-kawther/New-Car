@@ -1,6 +1,6 @@
 import numpy as np
 
-class LinearRegression:
+class LinearRegressionBis:
     def __init__(self, X, y, alpha=0.001):
         self.X = X
         self.y = y
